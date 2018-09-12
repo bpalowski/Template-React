@@ -8,7 +8,7 @@ function Sound(props){
   function soundEvent(event){
     event.preventDefault();
     props.parentFunc(event);
-    console.log('In the soundEvent');
+    console.log('In the soundEvent' );
   }
 
   return (

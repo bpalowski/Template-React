@@ -10,7 +10,7 @@ function SoundList(props){
   function onEventListen(event){
     event.preventDefault();
     //props.whateverFunction(event);
-    alert('hello');
+    alert('hello ');
   }
 
 
