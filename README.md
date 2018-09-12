@@ -1,7 +1,4 @@
-React Fundamentals Week 1
-Change Titles to your Project
-Webpack
-package.JSON
+
 
 Installed
 $ apm install react@0.16.2
